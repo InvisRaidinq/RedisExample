@@ -1,0 +1,4 @@
+name: Redis123
+version: 1.0
+author: asd
+main: xyz.invisraidinq.redis.RedisPlugin
